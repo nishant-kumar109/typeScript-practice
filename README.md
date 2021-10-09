@@ -1,7 +1,5 @@
 # Build a REST API with Node.js, Mongoose & TypeScript
 
-Article: https://tomanagle.medium.com/build-a-rest-api-with-node-js-typescript-mongodb-b6c898d70d61
-Video: https://youtu.be/goUbHgAzPCs
 
 Note: This repository includes the [postman collection for the finished API](postman_collection.json)
 
@@ -28,17 +26,5 @@ Note: This repository includes the [postman collection for the finished API](pos
 * TypeScript
 * Express.js & Express.js middleware
 
-## Video structure
-1. What are we going to build
-2. Bootstrap application
-4. Build out registration
-5. Build out post CRUD operations
-
 ![](./diagram.png)
 
-## Support
-[Buy me a Coffee](https://www.buymeacoffee.com/tomn)
-
-[Sign up to DigitalOcean](https://m.do.co/c/1b74cb8c56f4) I 💖 DigitalOcean
-
-[Subscribe on YouTube](https://www.youtube.com/channel/UClEEzwG7Tl3-8eY11Qytsog)
